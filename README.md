@@ -75,7 +75,7 @@ The Aviax Music Bot offers a range of commands to enhance your music listening e
 | `/stop`                 | STOP THE BOT AND cleaYr THE QUEUE.           |
 | `/queue`                | DISPLAY THE LIST OF SONGS IN THE QUEUE.     |
 
-For a full list of commands, use `/help` in [telegram](https://t.me/AviaxBeatzBot).
+For a full list of commands, use `/help` in [HIMANSHI-MUSIC](https://t.me/himanshi_music_bot).
 
 ---
 
