@@ -22,6 +22,11 @@ def private_panel(_):
                 text=_["S_B_3"],
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
+        [
+            InlineKeyboardButton(
+                text="• ʙσᴛ ꜱᴛʌᴛꭎꜱ ʌηᴅ ϻσʀɛ ʙσᴛꜱ •", url=f"https://t.me/All_SANATANI_BOT/324"
+            )
+        ],
         ],
         [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
         [
