@@ -63,7 +63,7 @@ def stream_markup_timer(_, chat_id, played, dur):
          InlineKeyboardButton(text=_["S_B_3"], url=f"https://t.me/HIMANSHI_MUSIC_BOT?startgroup=true",)
         ],
         [
-         InlineKeyboardButton(text="• ꭎ֟፝᷍ᴘᴅʌᴛɛ •", url=f"https://t.me/ALL_SANATANI_BOT",)
+         InlineKeyboardButton(text="• ꭎ֟፝᷍ᴘᴅʌᴛɛ •", url=f"https://t.me/ALL_SANATANI_BOT",),
          InlineKeyboardButton(text="• sꭎ֟፝᷍ᴘᴘσʀᴛ •", url=f"https://t.me/+1iBW9rtUxfszMzY1",)
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
