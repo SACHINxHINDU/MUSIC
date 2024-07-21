@@ -66,8 +66,10 @@ def stream_markup_timer(_, chat_id, played, dur):
          InlineKeyboardButton(text="• ꭎ֟፝᷍ᴘᴅʌᴛɛ •", url=f"https://t.me/ALL_SANATANI_BOT",),
          InlineKeyboardButton(text="• sꭎ֟፝᷍ᴘᴘσʀᴛ •", url=f"https://t.me/+1iBW9rtUxfszMzY1",)
         ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
-        ]
+        [
+         InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")
+        ],
+    ]
     return buttons
 
 
@@ -79,8 +81,10 @@ def stream_markup(_, chat_id):
          InlineKeyboardButton(text="• ꭎ֟፝᷍ᴘᴅʌᴛɛ •", url=f"https://t.me/ALL_SANATANI_BOT",),
          InlineKeyboardButton(text="• sꭎ֟፝᷍ᴘᴘσʀᴛ •", url=f"https://t.me/+1iBW9rtUxfszMzY1",)
         ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
-        ]
+        [
+         InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")
+        ],
+    ]
     return buttons
 
 
